@@ -1,0 +1,1 @@
+A simple cli based todo list using Typescript, Node JS, and Inquirer.
