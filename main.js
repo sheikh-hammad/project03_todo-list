@@ -13,7 +13,7 @@ while (condition) {
             name: "addMore",
             type: "confirm",
             message: chalk.yellowBright("Do you want to add more?"),
-            default: "Yes"
+            default: "true"
         }
     ]);
     todo.push(todoList.todo);
